@@ -1,2 +1,2 @@
 # Proyecto_Final_Candia_Matias
-Repositorio con el proyecto final del curso sobre POO en C#
+Este repositorio contiene todos los archivos correspondientes al backend del proyecto final del curso.
